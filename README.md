@@ -1,2 +1,0 @@
-# corona
-PWA Corona Virus
